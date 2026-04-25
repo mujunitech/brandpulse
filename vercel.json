@@ -1,5 +1,5 @@
 {
-  "rootDirectory": "",
+ 
   "builds": [
     {
       "src": "package.json",
